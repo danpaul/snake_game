@@ -1,3 +1,4 @@
+- HTML, CSS, JS
 - start with review of main HTML file
 - talk about running the application (directly in the browser)
 
